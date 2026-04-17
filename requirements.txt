@@ -1,1 +1,1 @@
-streamlitopencv-python-headlessultralyticsnumpypillow
+streamlitopencv-python-headlessopencv-python==0.0ultralyticsnumpypillow
